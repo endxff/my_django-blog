@@ -18,3 +18,6 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
+
+
+# Comentário para possibilitar um commit e pull request para avaliação do tutor EBAC
